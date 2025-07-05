@@ -1,0 +1,20 @@
+{
+    "hello_world" : {
+        "name": "Hello World",
+        "desc": "Hello world program with PyTeal/Python.",
+        "level" : "Beginner",
+        "lang" : "Pyteal"
+    },
+    "nft_marketplace" : {
+        "name": "NFT Marketplace",
+        "desc": "A smart contract for creating and managing an NFT marketplace.",
+        "level" : "Intermediate",
+        "lang" : "Pyteal"
+    },
+    "tok_minter" : {
+        "name": "Token Minter",
+        "desc": "A smart contract for minting and managing fungible tokens.",
+        "level" : "Intermediate",
+        "lang" : "Pyteal"
+    }
+}
